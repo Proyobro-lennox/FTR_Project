@@ -72,7 +72,7 @@ https://github.com/Proyobro-lennox/FTR_Project/assets/85806856/1a7da472-f1cd-40f
 
 ## Project Link
 
-[image_analysis_using_CV_ML.ipynb](url)
+[project](https://colab.research.google.com/drive/1_IeWXbXwgINUNhSmOSsaQ7FiiJVX4k4L?usp=drive_link)
 
 
 
