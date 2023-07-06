@@ -70,6 +70,10 @@ For example we want to highlight the faces in the given image so the following i
 
 https://github.com/Proyobro-lennox/FTR_Project/assets/85806856/1a7da472-f1cd-40f0-aeca-1060da22fd9b
 
+## Project Link
+
+
+
 
 
 
