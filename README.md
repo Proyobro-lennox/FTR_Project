@@ -72,15 +72,7 @@ https://github.com/Proyobro-lennox/FTR_Project/assets/85806856/1a7da472-f1cd-40f
 
 ## Project Link
 
-
-
-
-
-
-
-
-
-
+[https://colab.research.google.com/drive/1_IeWXbXwgINUNhSmOSsaQ7FiiJVX4k4L?usp=sharing](url)
 
 
 
