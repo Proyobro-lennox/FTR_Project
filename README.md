@@ -5,9 +5,14 @@
 ## Project Statement
 Image analysis is the extraction of meaningfull information from the image. Analysis of images can give meaningful information including face detection, object detection, color scheme, gender detection, detect brand and various category. Using cognitive services provided by Azure Image Analysing web services will be made. This image analysis service will help us knowing the face, object and various elements in image. It can give us answers for who, when and where was the image taken.
 
-## Azure Technology Used
-1. Azure Computer Vision
-2. Azure Machine Learning
+## Azure Services Used
+### 1. Azure Computer Vision
+Image Classification: Azure Computer Vision can classify images into predefined categories or custom classes. For example, it can identify objects, animals, or scenes in images and assign appropriate tags or labels to them.
+
+Object Detection: The service can detect and locate multiple objects within an image. This is useful in applications such as counting objects, detecting anomalies, or monitoring items in a production line.
+
+### 3. Azure Machine Learning
+Azure Machine Learning can also help in building object detection models. These models can identify and locate specific objects within an image, typically by drawing bounding boxes around them. Object detection is useful for tasks such as counting objects, tracking items, or enabling augmented reality applications.
 
 ## Prerequisites 
 1. Azure Portal Subcription
