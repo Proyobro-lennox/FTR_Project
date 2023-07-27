@@ -60,6 +60,7 @@ We put one try and except block if anything is incorrect or the input image is i
 
 We import json so that when all the analysis is done the result is shown to us in json format.
 Matplotlib will be used for operations on the image.
+Please use .jpg images only.
 The following snippet is where we display the input image and its corresponding analysis which will we shown in json.
 
 <img width="663" alt="Screenshot 2023-07-06 at 15 46 15" src="https://github.com/Proyobro-lennox/FTR_Project/assets/85806856/b77cbb0d-39e3-4c92-9e3c-e021f5185700">
