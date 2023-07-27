@@ -7,8 +7,6 @@ Image analysis is the extraction of meaningfull information from the image. Anal
 
 ## Azure Services Used
 ### 1. Azure Computer Vision
-Image Classification: Azure Computer Vision can classify images into predefined categories or custom classes. For example, it can identify objects, animals, or scenes in images and assign appropriate tags or labels to them.
-
 Object Detection: The service can detect and locate multiple objects within an image. This is useful in applications such as counting objects, detecting anomalies, or monitoring items in a production line.
 
 ### 3. Azure Machine Learning
