@@ -9,7 +9,7 @@ Image analysis is the extraction of meaningfull information from the image. Anal
 ### 1. Azure Computer Vision
 Object Detection: The service can detect and locate multiple objects within an image. This is useful in applications such as counting objects, detecting anomalies, or monitoring items in a production line.
 
-### 3. Azure Machine Learning
+### 2. Azure Machine Learning
 Azure Machine Learning can also help in building object detection models. These models can identify and locate specific objects within an image, typically by drawing bounding boxes around them. Object detection is useful for tasks such as counting objects, tracking items, or enabling augmented reality applications.
 
 ## Prerequisites 
